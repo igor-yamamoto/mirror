@@ -1,0 +1,502 @@
+ID1,ID2,Country,City,Street
+e2c42733-ebdf-4503-80a6-274dddc161d4,c77b17ae-1e16-4acd-b50a-65839594c516,Lithuania,Atlanta,Timber   Drive
+e51b7339-9a6c-4f21-96f8-4813ae864685,fb138322-3e77-42c2-8c9f-e4bfb517cbeb,Barbados,Lyon,Bloomsbury  Vale
+476bf72d-4b2f-426b-a83e-533df76b7e8a,ea12cf43-962e-492d-975b-a26d5cf8311e,Turkmenistan,Oklahoma City,Fawn Drive
+42143bfe-36b8-4abd-b784-ed78e0b46852,d3df3757-81d3-4b2a-afb5-972150800fc1,Spain,Fayetteville,Champion  Hill
+01b6e65c-8dd7-4ff2-b40a-f8ccc1a8a08b,3606d03d-69e1-430f-972d-cd8f40c345c3,Micronesia,Berlin,Birkbeck  Avenue
+770747f2-55f7-4627-9b85-5e0e9543c4de,60d7b446-961c-43e9-8af3-51df040e655c,Denmark,Omaha,English   Street
+e06f1c38-06c5-4bec-a3e3-a3329de85ae5,fb48658d-9d51-4534-bdd3-12801b925892,Turkey,Escondido,Belmore  Rue
+3fb146b8-3207-48c6-9469-21146e291e53,1a4724a0-8e1f-4423-b1b1-af7188e551f6,Bulgaria,Henderson,Meadow Route
+9cd68705-9586-4d69-9d8f-4e1c301f87aa,b6042083-565f-44a9-9f84-07b9acbe020b,Congo,Garland,Blackpool  Crossroad
+d7b16399-18d6-46cc-8791-602f19ebfcce,cc08dd07-0b58-4fc2-9795-b8ad26a64e05,Portugal,Tallahassee,Clere  Grove
+8edaa250-844c-4c93-a329-baf920e61bb8,15c7a464-7eda-43a4-8257-d27c35557b5f,Djibouti,Milwaukee,Sundown Pass
+7a9ed2bb-0709-40d0-be37-e8213b84f493,9bbfd181-0613-4b0a-95c4-db14b1f253ed,Dominican Republic,St. Louis,Linda Lane Tunnel
+990f0001-ebb7-45c2-9d4c-faea9a5fd523,c35ec49f-cba0-4405-a75f-11232631f16f,Slovakia,Philadelphia,Thorndike   Walk
+fd167c29-b730-4da5-ba43-1b6da4afee04,456bef8b-13bc-423b-8f7a-525cd8227d73,Uganda,Glendale,Berriman  Route
+7aeac46f-79d5-427c-b702-22d885bba237,b7c5767e-f6dd-450b-a360-88941d999244,Somalia,Moreno Valley,Fieldstone Grove
+218255bc-ba90-4586-ad3a-262ed3e9d15d,8c5130c8-24c8-4dff-9720-638fcf3d7cd4,Greece,Fremont,Clavell   Drive
+3f1b5fa5-6655-4e1d-87ab-4f90689d550f,edd38aa7-33d9-4af1-b4ed-50457d0c79bb,Benin,Arlington,Chesterfield  Street
+11699589-75f7-490c-8d9b-e3fdab873485,98053d4d-37e8-42db-865e-173103360d43,Micronesia,Philadelphia,Adderley   Crossroad
+f2b6ad40-044d-430e-8d18-33dd79212cb0,c13e2c89-d2dd-4671-8212-ba1d1f77b3b6,Benin,Jacksonville,Baynes  Drive
+d422e18b-0a08-4b88-a869-cf2ab1ed12cb,c97d8ca0-dc0c-4639-8197-0eab09844131,Ukraine,Hayward,Aspen Tunnel
+7f51b55a-864f-403b-8a03-10f73a689cf2,6d4965ac-9722-4694-8566-449800232069,Iraq,Quebec,Ashley Alley
+ef63c3a1-12f9-41ac-9f09-7ed6bd69d1fc,a7cfb72a-9b18-42e5-a360-52a43f7fe698,Bolivia,Springfield,Clyde Grove
+707f16e6-d884-45bf-9e1b-5f1f9943ed1e,a27273bf-2e41-4b90-8132-00ad161c172f,Andorra,Tulsa,Chantry   Lane
+24ad6f13-de11-4462-b153-d4053f92ed93,ca009620-e0f2-4df6-a85b-e51194feb372,Grenada,Boston,Belfort  Grove
+b76a8bdf-5ca0-4a4f-a4ea-3123cbcb6f9c,c8f44721-8f85-4921-8648-c356add4a0a9,Côte d’Ivoire,Oakland,Marischal  Street
+2feadbc7-5bf2-48a3-b3e0-a0c5e9488c0e,5a9e8926-3c2e-49f9-aa0c-a58122584959,Costa Rica,Hayward,Yoakley Hill
+242146c4-5325-4401-bf79-9f9fccccfe92,126815a8-f7b6-4e05-a060-acb0788843ff,East Timor (Timor-Leste),Saint Paul,Victoria Rise Alley
+024c896a-6d56-45d9-8f67-c7dacc7df9b8,1f58a417-ae81-4d77-a854-103fe3d950e8,New Zealand,Laredo,Bellenden   Vale
+3561210c-2203-401e-ba14-78d2f92b648a,559560a1-aa37-4b7e-90cd-d5ae2f17dc34,Vietnam,Paris,Blackheath  Pass
+d4086381-2f7d-4145-81c3-a4b16bc2476d,dced057b-4a2b-4fd6-8470-ec104fa0cac6,Vatican City,Denver,Underwood  Crossroad
+4751c799-de1a-4962-929c-576298b16ce6,b4416baf-2dd9-4aad-86d9-dffe9406e50f,Finland,Jersey City,Canon Hill
+233b517b-f602-4d44-8c56-079913e3bb2d,ced28c3b-850e-4cba-af54-b6f9b93eef18,Somalia,Las Vegas,Chambers  Alley
+cce6287f-b57c-49f4-ac1e-60d5b327811c,5d1ce3ce-0169-40cf-8f89-b7f3b2b07c19,Egypt,Venice,Bell    Vale
+672cbab8-c144-4472-a9e5-4599466c117f,9cf55ecf-31e9-4a97-b837-bcbb6918ee14,Croatia,Murfreesboro,Fawn Grove
+f6ae7dc2-5490-4494-89a2-94cbc8884362,f2949c02-4b0d-4e5c-b32b-e1d9133eec1e,Ethiopia,Los Angeles,Arlington  Alley
+7ff0fdb8-4104-473f-8fa5-62a2eb60b159,7e8bc21a-2d8e-4aa3-873b-2983e633d1dd,Bulgaria,Orlando,Linda Lane Road
+4f48464f-1d9a-4c92-abdf-b247680d0bc3,eaa1e16b-353b-48c9-9c27-3c562f96e701,El Salvador,Reno,Chester      Rue
+a893e666-2e9a-43fb-adaf-1bd042b3e163,b76368ce-9bdd-4d3d-a7f9-c49ed2727f6f,Djibouti,Huntsville,Sherlock   Rue
+5223926f-08e2-49f2-ab98-9ef4773c8a52,7cf0d401-20e7-4234-bebf-d567fbdd8bc3,Croatia,Tulsa,Fairfield  Route
+dd1653a0-1b26-4e12-b84c-e98230aefee4,3f37d260-242b-43ee-8b85-90711898f1c8,Ireland,Omaha,Queen Drive
+68ebf0c3-a423-4c64-8bf6-5950ba7019de,bd8c37f7-6a4f-4d85-a721-717494a3679e,Afghanistan,Louisville,Becher  Avenue
+29a0c1d5-547d-4c8c-b831-fcb610a55752,3dd43e52-7119-4e2f-842c-bde9925c7fd7,Cuba,Seattle,Sheraton   Avenue
+abf91b55-efe4-4c22-aae6-e10cb8e47884,1098a3c5-d102-4a11-876f-8eabe764e832,Chad,Irving,Gatonby   Way
+7624ed3e-7d68-4148-a93a-7133b07c3a92,09afdfd3-3199-4cd9-bffa-8f54adaf340b,Sri Lanka,Boston,Thoresby   Tunnel
+1d094bc8-e423-4dcc-a184-a042a0a24402,5afeac5b-64a7-409b-b660-85d57876bd5a,Guyana,Lyon,Viscount   Tunnel
+e1242d08-f273-465d-9df3-9293e3354279,6fc45681-4079-4929-92cf-259b1860e86a,Malawi,Washington,Maple Vale
+5aa1c050-7103-4db0-bfd7-0b2c81b46f33,ea4a4d21-5fa4-40ba-afaf-f0b70435d152,Togo,Miami,Ashley Crossroad
+4e7dcbe5-74fb-4780-b41b-b8e3597f3c40,17a94ffb-f6be-47d4-a9d4-d89be860bf47,The Gambia,Memphis,Virginia Boulevard
+98966070-4ab7-4a29-87c3-0af123f2d431,5f3b465b-49ba-4e9c-88a0-d0fdc3d33113,Antigua and Barbuda,Stockton,Bolton  Avenue
+7d3a2d8f-1495-462b-8885-1e3d7b4377df,afe8262b-8b09-4100-b58c-9a92418dd74c,Comoros,Rome,Canal  Rue
+b9d30f40-8645-403d-8c75-21c5e4bfc7fc,a128a0bd-8661-4a6a-a5cc-7f51902ea990,Qatar,Valetta,Aylward   Route
+221f4bb2-dee8-4c23-b775-fa87aea9f3b9,ec54e25d-8ad1-4580-81c7-1eb5abb78029,India,Chicago,Blendon    Street
+73542be2-f3ab-48ab-a012-cbc8c59c1b94,f8f87d47-0d6d-4794-be99-6684dd4fc87a,Panama,Kansas City,St. Jamess  Walk
+226b70ef-67a9-4f3e-ada0-ddf3575d379e,ed0ce08c-56be-4315-8c77-394755931deb,USA,St. Louis,Beaconsfield  Tunnel
+1cebc8a4-b1f5-47f3-8fef-6187533c3122,f9a47b07-a65b-43b1-b2c7-727aaf0d560a,Slovakia,Baltimore,Bedford  Way
+6a74a93c-11ca-4554-b20e-cbed55bb1f60,a054921e-fdb8-45f0-8707-1569755b9024,Uruguay,Berlin,Dunstans  Boulevard
+93cdc605-94e8-4a9c-a8ce-a32c25143c68,b75e0f0b-abdc-4101-a24f-72edde51da54,Norway,Scottsdale,Angela   Lane
+9188f77d-7013-4d6e-b439-33115cb828d9,80127130-79c7-405e-978c-5d57a1fa4776,Uzbekistan,Valetta,Berry  Pass
+8d14f1ea-6b04-401e-8f8e-d6b89fa00e7a,94c9d2e7-77a9-481a-9f1e-47a16781d075,Macedonia,New York,Blackwall  Rue
+8bb5a64a-4b3c-4121-8883-a6c175dada1e,c32cd50c-d44c-4972-b4c5-459a425180ef,Azerbaijan,Saint Paul,Aylward   Route
+6fba4573-1d87-40d1-9c12-dd13982e9930,ecfcff61-3d9a-4d5b-939a-0c86e519936b,Nepal,Worcester,Baylis  Crossroad
+29c2f459-d9ca-48db-adae-0a9d45c872a1,dfc04d41-18b2-412d-9cdb-8c9763c82043,Maldives,Philadelphia,Chelsea Manor  Crossroad
+8ea24738-0487-473a-a20c-d575f1e6bbcd,b139356a-7129-47ee-89b4-b33cda1f00d3,Albania,Boston,Arlington  Rue
+5e96a125-45af-4d2b-b188-d394c411e7a6,5850907a-b35b-4552-a1c9-dd63440d0a0a,Kiribati,San Francisco,Endsleigh  Road
+c0e8cb7b-3f26-4f3e-8aca-d1a1ad4a9268,fd10b97d-7464-42f9-94b0-aa268cc4120b,Syria,Portland,Argyle  Grove
+fc457b31-a4d7-4c9b-8695-71d3a09747fa,b9e22360-8328-4b05-ac2c-2cd5124f5735,Sri Lanka,Prague,Abbotswell  Street
+7f6bb007-a0bd-4a77-9ab2-60785a34d3ea,5aa2e7e1-950f-4fd2-b481-52432cf01de9,Sudan,Valetta,Clissold  Alley
+5be39488-56c5-489e-9789-91f6588b3282,bf862a75-062f-48c6-a390-56e18a9a4db1,Sao Tome and Principe,Arlington,Pine Walk
+dc85cbb6-86c3-41e1-a6e8-ff35263638e6,7e85898f-a15d-4a81-bc4b-fad7191c4a61,Bolivia,Escondido,Camera  Road
+5e4e0f8e-099b-47dc-a868-f21f30776139,b6d69719-43ba-4a11-ac6c-8394eb22c480,Portugal,Saint Paul,Wakley   Vale
+e6f36a79-a0bc-4f18-9309-2f598166da04,41657ce4-9cef-446a-9fa3-bfdcf1bfac1a,Benin,Saint Paul,Buttonwood Avenue
+e0fa0251-802d-4973-b742-8e81adfdcfc3,dd399f03-67e2-4dae-9a4b-724b0f502e08,Romania,Fayetteville,Woodland Rue
+ddaddaff-b7dd-4e87-a9c3-8826bd3198b9,65fac93e-273e-40a0-a584-0b1bc0d3de88,Saint Lucia,Tallahassee,Glenwood Route
+d4874ae9-3282-4ed6-bf16-117c4b1d6f3c,afbffcdb-7e3d-42d8-af80-bfff917717f9,Chile,Sacramento,Calshot   Road
+aa73a61b-b8b2-45d7-b621-8127d1656cb0,78819911-71a7-4cc6-b4a2-ce845e9cb95e,Turkmenistan,Lisbon,Camelot   Pass
+7f93009c-dd66-42a8-ac17-8f3d3fe4bcdb,73517dac-20c4-4380-8d87-d82edc442fda,Switzerland,Paris,Bigland  Lane
+66f6ddd4-d439-49e6-86ff-f986353094dc,0915466a-501b-4102-840d-959089536540,Maldives,Escondido,Heritage Way
+64440517-e747-49a5-9bbc-9b668353524b,f60d6e5f-78c8-4e1b-ad03-efff32842efc,Senegal,Lyon,Bel   Route
+80a75075-d524-48d9-bdc3-13c9736d45d4,61c95c6a-001c-478b-bb85-a9cc4b5b4b12,France,Jersey City,Garfield Grove
+1603e4b3-94f5-4511-9833-03565f8ad419,e0308515-8106-4ff7-8e70-c1815199067f,Sri Lanka,Fullerton,Ensign   Route
+9b50a249-e962-4f99-8986-4fcde66b7199,dce5091c-e394-4b1e-aef2-f4df895cbe1a,Israel,Milwaukee,Blenkarne  Pass
+e963f406-c7bf-4482-a60c-01908943cbbd,1d3e4a36-54ed-489b-b7a4-1665a2c9fd38,Bangladesh,Otawa,Cockspur  Road
+e026ccb9-7333-4979-92da-4fda911ddd56,6761676c-cf81-472c-9e7b-c88f2a6fac49,Qatar,Prague,Ben   Rue
+961c47f7-1cbf-41b3-a55b-76cbb45cff53,6d99e171-00b6-4c4c-9553-0bcaa56620af,Antigua and Barbuda,Indianapolis,Blanchard  Alley
+0bacd94b-fbe9-4c4d-8596-8acba610fb49,cfcbd199-954f-4a26-8c6c-d2c12a259096,Mexico,Santa Ana,Adelaide  Road
+dbd2c431-5ae3-4366-98e1-129c09893918,4022c194-f29a-4eb8-8b2d-4e6ceaf0ad0e,India,Salem,Coal Wharf  Crossroad
+c6a91eb7-16f3-4ec1-acd1-061d1193b653,21323e95-f96a-4aba-8a79-fe41816518db,Moldova,Minneapolis,Kilner   Drive
+5de977d1-d377-405d-bb06-884cbad682bc,5f935fbc-d77a-4b56-b00d-0fd19c88a052,Spain,Honolulu,Adams  Vale
+5be25a23-90ee-4dfc-a6bb-92cefe56574c,6a5c941d-2807-4d51-84e7-7929e5d5387e,Turkmenistan,Fayetteville,Oxford Alley
+b71cc352-3847-40e4-97b0-b33940299d17,1c7cd857-97c5-4808-8f52-b412793167fa,Sweden,Denver,Bury  Grove
+bbee72d4-8259-436b-b9cb-882d1e965505,e32e4573-a4c1-421c-a890-e98646c8c6d1,Lebanon,Quebec,Blendon    Walk
+4d69d5e8-5e1c-434b-aa8c-529e55530978,ac01e429-d210-429d-b605-bf87dfce6636,Algeria,Pittsburgh,Addison  Street
+8057e6d4-0cf2-40b0-8637-994d62ef1659,cdf9eb79-41fc-46a4-bd9c-832cade02a7e,Morocco,Wien,Calderwood   Tunnel
+c07a943c-1cfc-48f6-8658-2a76443b6f0d,4478d672-6d55-4048-a8ec-3214a0ebc1c3,Tanzania,New York,Lincoln Boulevard
+aa1404f9-fe27-4069-ad4d-4af760785b98,171f778a-cb28-4fd1-96af-f068b9fa78bd,Kiribati,Valetta,Black Swan  Street
+6e017ac4-54d0-4487-8ca2-b42966a496b5,3efde271-d6be-43da-92c9-e3f2f211533f,Denmark,Pittsburgh,Enford   Road
+8da441cb-ac25-4754-9fdb-99d120567f96,4560a31e-057b-4b48-959f-eaab85e8c70c,Zambia,Houston,Collingwood  Alley
+f1fe32f1-4135-4426-9917-fab74feefc14,353f86c7-8c11-474b-af1a-706c336f7007,Argentina,Huntsville,Linden Hill
+6216ab3a-01f1-4562-a921-9e1aad6e8a51,286b27aa-e7ac-49c9-a9b3-457a0f2a1aa9,Sudan,Amarillo,Bel   Road
+cc002b87-8af2-4937-aa6e-bce721d3639c,097d19f9-99c4-41be-8005-24e79fcf0a6b,Kazakhstan,Long Beach,Calverley  Street
+697402de-a9ae-483d-98bf-d809338a58c1,ee6e8bb6-ddc5-4a8a-8396-7b7f80d0dd22,Saint Vincent and the Grenadines,Milano,Betton  Grove
+1e35911e-7588-4a62-b80c-1b52d83429d1,fb821693-2641-4f34-8bad-60b8b4460ec7,Canada,Santa Ana,Dyott   Street
+54fc7a00-5637-49e9-90bb-adb0b95e156e,188b1764-1e94-488f-8417-b6d781838473,Greece,Hayward,Birkbeck  Hill
+10ae21bc-e001-4271-b63f-1c8d11ad2f28,833bfaa9-cbe5-4ea7-8ef1-2d24ffe6f472,Vatican City,Fort Lauderdale,Angela   Drive
+144df2eb-5538-4994-9bf9-7aa8ad243f8c,4759bb8d-0be7-4ff2-9f0e-b23a0994b5ec,Vanuatu,Saint Paul,Enderby   Boulevard
+5c29cf6e-4b9d-4e45-ac84-f6da429400ee,d8bf73f1-22c8-4dba-a262-ec46b60ea60e,Maldives,Bakersfield,Sherwood  Tunnel
+3ceaf89b-dcbf-4a73-8039-8dbdeca1acc6,7b7b8a78-6fe3-44c0-9fea-5a7042679889,Mali,Henderson,Bush  Way
+68a56cec-36a1-4f09-9a50-2fa564d1bd82,e3fc9fbd-df55-4ccd-8cb1-ef4a4406f311,Chad,Tallahassee,Commercial  Hill
+585259da-4333-4ea4-96e7-75ef4156a1af,1b87635a-62ff-43a0-aa97-09896fdbca95,Brunei,Omaha,Antrobus   Avenue
+d2957e3b-18bd-45d9-8ab3-88b775dd9430,b56a7507-dd66-455b-9a2b-edaac0a33cb4,East Timor (Timor-Leste),Salt Lake City,Bennett  Lane
+d1a3117b-04f5-4184-865b-3fef080d220d,f3ef80ca-72ef-4b04-9258-4650175f0978,Canada,Zurich,Gate   Grove
+5417de64-c4fd-4418-bc69-fb82775c03f5,77b783e5-984b-4836-9b03-7a46957963d0,Uzbekistan,Dallas,Canon Tunnel
+66f182c5-7c05-4f93-a589-2c1717aa3ca5,af8cde26-061f-4089-b6ad-efbaa3eed467,China,London,Clifton  Drive
+2639a605-0a83-4e35-a002-b8a169cef4f3,5d5d5d00-5e46-4545-be5f-3156401acd60,Italy,Valetta,Egerton  Road
+464ee0d1-7dc0-4748-ac78-b2f6d24fe17c,c47af05f-162c-4ab6-b368-71ff0dfe79e1,The Bahamas,Springfield,Bellenden   Alley
+0fb8c0cd-2240-4bca-b42e-ee6110a5db38,40393448-474c-4b99-b425-c736f1bd3a25,Malta,Amarillo,Mariner  Avenue
+a9fe5f6f-0c46-4726-803a-3bb247381b45,fa4bd5fa-58cf-4138-9ec4-046ad90077b0,Macedonia,Bridgeport,Bigland  Walk
+fa7a76f8-22bf-4c9f-9a4f-4e3b01b134e9,b94c042f-312a-485a-be6f-34da6986878e,Cuba,Las Vegas,Linda Lane Route
+b7af3e3d-efc9-4736-87a6-7eb1d8fa3c2a,979bf707-30df-4c91-88f1-f2626a7e4783,Uzbekistan,Paris,Camley   Walk
+59af475c-5b1b-46b5-84c1-67ef88ca8f2a,d88986bc-8ca2-4e5c-b490-ec2774ff63df,Ghana,Chicago,Walnut Tunnel
+690b48a0-8a25-4ce1-8c2f-fbb08f1cbc30,9c507e56-180f-4dbe-b0a7-49a7092e97a6,Kiribati,Rome,Elystan  Vale
+3e67173f-df07-4564-b708-1719f00702c3,73f4aee4-0903-4a98-b064-efafc99afd37,Equatorial Guinea,Jacksonville,King Edward  Tunnel
+e832c6eb-08b2-482c-a9de-757fea3f8769,74e68173-d8cb-4ae9-a5a6-d1e80197bcbb,Vanuatu,Milwaukee,Lincoln Hill
+77f4b3f0-4713-445f-95cc-7edc6b232789,14fdc6be-6e36-417a-9209-5f4bfedb9087,Tanzania,San Antonio,Empress  Tunnel
+ba9f2daa-7b15-4aab-a23e-51055cb337b6,42133f5a-46f2-4cc8-a330-c00e12ed2e94,"Sudan, South",Lakewood,Andrews  Alley
+8e53ca81-8eb8-4dfc-a92c-f5b60b5bb7a7,a3aa0878-77a1-4b81-9b90-b5b468d1dba6,Brazil,Miami,Chartham  Avenue
+9dca76a0-5d31-4468-ad11-ca5910b909e6,09ec82a8-91cf-44d3-bcc2-f372477635e6,Mongolia,Albuquerque,Cam  Road
+a0e77d9b-eeca-40b7-9c5d-5a528921bf44,5c4141b4-e542-4893-b31c-a338c31567b4,Montenegro,Nashville,Tilloch   Alley
+56a754b0-d828-4b9d-a09b-45d56a5c4c40,c0a4f519-5889-4669-b8f2-1f72d90e7b2b,Saint Lucia,Arlington,Elizabeth  Grove
+c4fb5b3a-2dcc-406b-9352-758766331f96,9b6f9fb5-a95c-479a-bbf5-efcc00faee6f,Samoa,Chicago,Bethwin  Tunnel
+695452e2-8447-4478-b598-80a727584bd8,e55a5b82-0c93-495d-b649-7abe36535f8f,Jamaica,Lancaster,Emily  Road
+d2360e17-0459-4809-99d7-03f55ef600dc,bd68068e-43cc-4458-aa4e-597b2bf3d9e4,Vietnam,Madison,Cephas  Lane
+d3fa3dee-fdc7-42af-a96c-5f5d1fc9f14e,01cac75c-9d5c-445e-8312-380dbea218eb,Italy,New York,Sheringham   Crossroad
+bec1c744-5ff6-4728-8d52-16e5a70610e7,3f404e91-1726-4bca-bf8b-28f9d3914623,Djibouti,Atlanta,Bayberry Grove
+c4591782-2e7e-433a-a011-89167ab8df74,f758d049-82da-429c-9a5e-9d0e7f23906e,Iraq,Fremont,Fairbairn  Avenue
+2f082d24-5ba3-45ad-9e93-691a0cc29fa9,9796c305-bc6e-491a-b42d-73f91c9a2cbf,Tajikistan,Escondido,Kinglake  Vale
+60781562-6e7f-477a-812d-4e0804536aa3,7dc5dc04-c406-44da-a5f0-1755847ac3bf,Finland,Lakewood,Erindale Boulevard
+dcbef201-49e7-469a-a6d7-1176ee8c2d9b,ea06f0e9-5e4f-40af-901d-402a41b46173,Jordan,Oklahoma City,Archery  Street
+b8edaead-c5ff-458c-8499-306a8a333624,644b9a08-afd5-4743-81fc-56d43d1b196f,Saudi Arabia,Stockton,Ely  Vale
+1acdaefe-f47e-42b9-830a-f35992b734d4,8aca569b-586f-44d9-964e-1cc9caff0bab,Maldives,Salem,Victoria Rise Lane
+1f1a1470-54c4-40e9-85cd-cd232ee8d709,dcc7a60a-14aa-4615-ac00-483aa72f818e,Haiti,Zurich,Bush  Route
+c36c9fab-59dc-4478-ba1b-13e6b8a9e711,8e483aba-da1c-4194-a40f-a58dcb8bd966,Oman,Louisville,Bond Route
+abe47315-6c99-469d-aa20-72bb7f98e048,ed79abbc-df97-4f60-a512-54fa60e1fca2,Peru,Prague,Yorkshire  Vale
+5fafb944-8dba-49f1-a712-68bbe8aa7205,b3b91fa8-aae6-4279-a835-8624782ca4f6,Bolivia,St. Louis,Angrave    Road
+6e2f8d9b-668c-4504-8cd9-1dcea0d7890c,e4bd2332-e5ac-4b1a-8c9d-c1a755635104,Kosovo,Bellevue,Ashley Vale
+8a3d593d-3ede-4944-b714-075583c08f32,d3e44edb-383e-4564-9da6-311d2ed79e79,Nepal,Madison,Vincent  Pass
+38c7e59a-e7aa-48af-b112-6920ff969562,484dc081-8014-47d3-8f3a-c4febc0a2b25,Kyrgyzstan,El Paso,Angrave    Drive
+f68d198c-7285-4dd2-bf13-1bad15acf7ff,e727e6ed-e01b-4a73-8ef2-49c019fd11fa,Japan,Long Beach,East Road
+5915feaa-d702-4898-9c66-3cc54480fbe9,17bf46cc-0dcc-4590-a82a-8bc3a26e28e4,Guatemala,New York,Heritage Vale
+5744fa19-246c-41b3-8e57-9aba66efa846,b480a541-f4f6-44b5-8d6c-dc5980133814,Dominican Republic,Dallas,Caxton  Boulevard
+607550de-7ad8-432b-812e-ef3d7325254f,7478ffe2-53a5-48a6-b323-3545fe5ab659,Austria,Nashville,Clyde Crossroad
+535fd12e-4a3d-4d60-9d91-79d94c845aa4,73b25960-8e6a-46c0-9f78-54a1a4fb981a,Ecuador,St. Louis,Clyde Walk
+68718cf6-350b-4e86-93b2-b3b187821238,96770a76-593c-410f-a5b8-c337b6a5a501,Jamaica,Reno,Bellenden  Drive
+b04aa87f-58d3-437d-bd1c-60f7b30f6cca,68d5e313-7d51-4ee3-b0de-393ec558eb77,Qatar,Zurich,Elf  Drive
+5ab2552d-1e14-42e7-bf72-4ec3f307e976,dcfa3241-817d-45f0-85b0-851ff89665e1,Macedonia,Bakersfield,Chester      Boulevard
+f860edae-1af5-4157-bf31-7e91c211b63b,fbf4a90b-6b54-4f7c-aa49-4a80ebe35b75,Jordan,Lisbon,Carolina  Grove
+14cb2a51-cbde-4690-881b-7ca07fc24fe2,65634078-de36-450c-b304-3b753386f9d3,Marshall Islands,Salt Lake City,Chatsworth  Walk
+d0a2cee2-a93e-406e-ab2f-ee7b61cca345,62822eef-fbc5-49d4-8163-8f94cf0b8d44,Mauritius,Bridgeport,Charterhouse  Drive
+b9178430-0d7c-465a-ad43-9bf407928f76,c279449f-378b-438b-adaa-f71f699777bf,Italy,Fullerton,Baltic  Avenue
+52e6d9f2-cd9f-4a29-9907-d0f00480b600,359a0e30-ec1f-45ec-8629-a506bffc6829,Monaco,Valetta,Charnwood   Vale
+d0987c3f-2c86-43a6-a554-832ea419c968,f0675db0-712b-41f1-ad3d-6fdbec973b40,Yemen,Lyon,Chatfield  Road
+710d0d83-be7d-4ffb-92d2-317f1b76f6de,d13ee26b-433d-4a5a-9f95-dd7f954f9a12,Peru,Long Beach,Railroad Walk
+03e178d0-af8c-4cc4-9c87-3ae0446e50d7,21950734-77d8-4595-9f4c-942bea8a8aae,Ireland,Ontario,Cavaye  Route
+3725cc53-dcbd-4191-92e1-edccbcef1806,d2a4e38d-1470-48cf-8f66-6344b3f64c6b,Finland,Columbus,Tilson  Crossroad
+85a7c2f2-cb8d-41ec-ba2f-4ef3078886ea,19aee6d4-9eda-46b5-9046-d0562d71fd8d,Portugal,Ontario,Thorndike   Tunnel
+02f1c4e4-5c0d-478e-ba35-394c5402cfc4,f90d0bf6-82a4-4f7a-bafe-95a2a88f792a,Benin,Moreno Valley,Lexington Rue
+c06e33b8-e108-44f5-8c5d-a1f3fcc9529a,b157dcda-5ad5-46b8-a3c3-fe654f20691b,Botswana,Scottsdale,Hampden  Drive
+033b0ec6-496a-4dc9-aefe-1cf4acd379ba,50624bd1-0c6c-4376-83ab-63839945fd8b,Egypt,Columbus,Cloth  Way
+3a56c9fc-b3b5-494a-bf5f-d9d0b0c4de4e,8523ccdc-c129-43cf-801a-a7a135679141,Burkina Faso,Jacksonville,York Way
+e775f000-21fa-4ff3-9ce7-e09566a182cc,07217c63-419c-4e1b-8527-ec6566f14c69,Armenia,Saint Paul,Erindale Alley
+5ab15651-ce5d-4f33-8dac-9f0d2e9ebb69,91578c42-2b0d-4889-8cdd-b4bdae7f827b,USA,Albuquerque,Bliss  Street
+99068b0d-5891-47f6-adea-81cb6abf4864,7bdadabc-2404-4b29-b1bf-1e011384508f,Chad,Rochester,Bazely   Way
+65b81652-9e96-41c0-8686-8c8bcf70e3ea,313d77a4-2207-43d6-8cfc-de53dd578ba8,Honduras,Madrid,Fairbairn  Crossroad
+eb8f9c67-e6c5-40c6-b3bc-e95a94558098,25834298-9420-4ce9-bbdf-1d9f00d03f15,Malta,Denver,Amwell    Way
+3d230524-200c-4d49-8354-821931790e0b,c8214cda-e3ae-4915-9f61-71346f8e7a66,Solomon Islands,Las Vegas,Bennett  Street
+efa6a399-6aff-49be-8376-31b9b0e8cc99,f9b4da90-b791-41ec-8b46-a3d479e30599,Luxembourg,Salt Lake City,Marina  Street
+cc314bc6-ed03-46cc-9b55-16378cf382d7,c273e1d3-6d88-4cfa-a402-df0d633ec77f,Seychelles,Berna,Cardinal Drive
+b5169888-cb17-428a-b775-89cddee8d79f,4af08a9c-56f9-419a-8bad-be41999233b9,Jordan,Ontario,Victoria Rise Alley
+96565d44-e8eb-46dc-ac38-95505f124cbe,253ec4fe-8d3a-4536-8567-ff43914610d4,Slovenia,Long Beach,Bazely   Alley
+387b489a-5d1c-493e-8098-017ce312d6b1,c52513cf-4c0c-4822-854f-a1f987d7ab95,Sierra Leone,Minneapolis,Chestnut  Drive
+0df9c051-66e6-4eb3-85ea-72d53fd28de3,556f1ba8-eda3-4824-ae40-a16696290b81,Burundi,Stockton,Longleigh   Pass
+3ca420b1-21a1-4633-adc1-f31808aa8373,313eb8d7-d5c1-4fde-828e-58d01c75af24,Libya,Denver,Unwin  Hill
+c80b914c-189f-4f46-8392-a76525a1af5f,841a5ae7-b985-4c04-b536-721ef662ac40,Moldova,London,Chestnut  Route
+19f4f328-2267-4ef0-a093-f55b0370ff42,61897922-f9b7-4c12-9ad0-15ee27ecb297,Mexico,Chicago,Lexington Lane
+9455b089-dcbe-48a4-b0c6-73c72a634a23,2e2cdb82-cf0d-49ac-b519-91c2b1983410,Netherlands,Houston,Arlington  Alley
+bafae753-af9c-4a18-819d-2dd5e8a19ebc,c80923e6-2e05-4ed1-952e-f02ff73f818b,Iran,Memphis,Maple Street
+1d74167e-0fcc-4e3c-b5c7-2167dd98f3ff,0eb852cf-ef75-4b39-84d1-307f07778dff,Austria,Oakland,Norland  Way
+52ac713a-09ea-4ca3-9ca0-8a674f190c9b,08475b71-26de-49f1-b4ad-ab2abd0b3890,Latvia,Jacksonville,Pine Vale
+d85ea026-e4d9-4dc5-9bdf-61b1d0d3fbd0,c5928012-5b35-4740-9e99-1233e2c56071,"Congo, Republic of the",New York,Woodland Avenue
+efd4e5cb-6a5e-498e-beac-cb29d0a23db8,34b28210-400c-43f9-a927-bf616fa440b5,Liechtenstein,Hollywood,Andrews  Lane
+2dacec10-ba9c-45c0-88e3-dc44466245b6,932d39f3-38ae-4342-92da-9b4ca61ff9ae,Brazil,Ontario,Catherine  Tunnel
+2a7e088d-dbaf-45c0-8c77-fc19c7af4cae,2d780832-46fc-4530-bbec-c316e0a1aa1f,East Timor (Timor-Leste),Toledo,Apothecary   Lane
+5e7bf353-9856-440c-a907-068371ffed5a,09ab6f97-53b5-4175-af71-de8bc9d26b81,Mozambique,Long Beach,Collingwood  Road
+e79f0d46-54f8-480a-b743-51fd26826ff4,5789852d-f157-4abf-adb2-925bbf5929a3,Colombia,Quebec,Udall   Alley
+179022e2-15b9-4349-8783-8e5d7e8129c6,e5d16783-6e41-4e51-84ba-7a0edbcf490d,Singapore,New Orleans,Bush  Alley
+5af1fc6f-19ae-4f5f-8d3a-128de01629b3,d1d56436-5738-4fb9-b426-094f0e330831,Portugal,Tokyo,Shepherds  Vale
+717c4aee-deff-41c5-bf62-64279aea3ad3,f53952ce-bd80-47f4-8139-4ad7578634f1,Senegal,Las Vegas,Collingwood  Walk
+b45f2d45-1e1a-4274-a0c1-8efa6d745c80,eebaef94-0527-4210-b345-0363d1dfdc6a,Philippines,Tokyo,Birkenhead   Hill
+9c652a1e-20d4-4c57-b685-f207fdd64dc7,5a186572-cd84-42ab-b88d-5f37aa596880,Yemen,Rochester,Duthie   Grove
+52652ebc-061f-429e-8bca-ec4719bb66a0,e9815023-00fd-44b4-a836-9e36246d1f66,Saint Kitts and Nevis,Moreno Valley,Bazely   Walk
+2d503330-7114-4a07-a629-c30c245f6368,cff327c5-fc7b-4587-9448-d2e59b1b27b9,Ecuador,New Orleans,Chancellor  Hill
+2b5b3f0b-d356-436d-b2c3-f1eea4040e9b,a15bf7dc-d5bd-426d-88cf-cfa3de7ffe71,Oman,Baltimore,Ben   Crossroad
+fbf848dc-421a-4910-9354-4cc86208e02a,0213dc04-3086-4e44-a244-1e89a2c7c171,Vanuatu,Los Angeles,Belgrave  Crossroad
+98e8b84c-ed1e-4afa-b039-12415a783530,af69a8e0-ecb0-4406-9436-55be60078acd,Cabo Verde,Nashville,Baylis  Pass
+99070027-dce0-4f07-8d7b-625c4f8393b6,54f4a3f8-fa1d-49fd-b983-fe4b2906c8f3,Myanmar,New York,Tilson  Drive
+7dd77ba2-0316-40c3-91fd-efaa456722b4,e96c4a24-cea9-4c4f-8ade-4e184e1d388b,Rwanda,Tulsa,Badric  Walk
+da0e2c55-f07a-406d-b299-f2729a5442a4,518b7323-1bc1-40c5-8e56-87e06be82857,Ireland,Lisbon,Victoria  Road
+0342bb21-1782-41d5-89d8-46abc0840a3c,3eea14d3-5f41-413e-b66c-3e6c231d151d,France,Hollywood,Queen Route
+4c84e0ec-8655-4e1c-a3c7-09ecc9b8bf4b,d173f19f-4048-4783-b7e5-8a422f7839ee,"Korea, North",Lyon,Cave   Vale
+5872a3af-65b1-486a-86e5-722accafe3ca,24cf6218-0deb-43ac-9699-b0091cf11450,Oman,Ontario,Thoresby   Pass
+203f3f62-d44c-4626-bdd6-8a53db86df4f,5446c166-522e-4438-a923-fa2c9ef495bf,India,Oakland,Glenwood Lane
+0e58e20f-f150-451d-b7fd-5c391c270955,76d749cc-e888-4c10-9f3a-1472e31aead8,"Sudan, South",Pittsburgh,Bury  Road
+05aaace5-71a5-40b4-8857-467c6b9453b4,a299ac5d-6bbc-45b1-beba-3a7c3a187813,Syria,Anaheim,Blanchard  Boulevard
+80ad8525-9736-4f70-9403-5bd47cd11667,a51c5b5e-7400-43f1-b376-93032b3dff1e,Malawi,Innsbruck,Cam  Walk
+08d744fa-053e-4eeb-b3aa-465dc8b43863,1956b607-4a18-4371-b95e-395048460968,Honduras,Lincoln,West Street
+c85cf625-e21e-46be-8f83-29bd6eb2be0a,2a1ac2a9-ab8e-4775-9b3a-4ba08c935d23,Iceland,El Paso,Dunstable   Avenue
+d61b17cb-a86a-40cc-b0e8-6b2f5311e93c,79fac6ac-c06d-4179-90e1-583f8807b6ba,Estonia,Bucharest,Bellenden   Vale
+c1c22ea5-d5e3-4ce1-8c91-3ca84671af3a,feb73df3-9021-4f2d-a047-44f63a6b5109,Madagascar,Toledo,Abbots   Boulevard
+df49d1cf-7e26-410c-a1ca-c7ef8d435688,2ab6498d-2ad1-4a2b-a371-a75e5b37d77b,Lithuania,Huntsville,Callcott   Crossroad
+d12a119b-d977-45ec-8157-3c26958f06fe,bcb2c676-336b-43c5-86be-0ecc3362f850,Chile,San Francisco,Carltoun   Vale
+2e546999-4a35-477a-b655-93e3636df082,004567d9-02b4-4e42-bd6d-279d64103b1e,France,Anaheim,Antrobus   Road
+5cd68a55-6944-4b08-bfc8-1893c5b849d5,b13d54fe-7c9e-497e-b74e-cb0dbe88ad90,East Timor (Timor-Leste),Scottsdale,Linden Alley
+44a998e6-49e3-45d8-be38-011a2bb4cb61,e58b2b35-0d13-41de-bebe-3402ca2a2abf,Ghana,Venice,Wadham  Vale
+e1b0b148-30e2-4bb5-9c71-bcda3c706b87,6ed73d4c-831a-4b78-9fa0-b754b89b8a41,United Kingdom,Los Angeles,Durham Vale
+f176524b-b7d3-489f-adc8-312942964879,efba7de0-30d5-47bf-8b6c-3fdb761a58eb,Netherlands,Lakewood,Pine Rue
+32b3cca1-ae43-4c93-a4ae-3412f0b080d8,ee6438ac-c3fb-4cbe-bec6-72cfd1d0ddcb,Central African Republic,Kansas City,Beechen  Crossroad
+2bddfc53-711e-4fb7-9191-2bc2a5fd5fc1,cfa699d3-0c71-4f1c-9fbe-6e1cf9e40d24,Turkmenistan,Pittsburgh,Longmoore   Vale
+421d58d6-c8b3-4383-aa9a-54555c154ced,a7a7f59c-7737-4e55-83dd-4d36af8e7869,"Korea, South",Berna,Canning  Lane
+6543d968-9f0b-45c8-9c29-a2aae3b73721,5551da66-c793-4cc8-8a96-e33aac0a17c3,Malta,Bridgeport,Enford   Avenue
+baa71ba4-d8ec-4a56-9ad9-867895aacac4,2a092786-a338-4dab-80a2-766623027c5f,Niger,Denver,Bagford   Tunnel
+56056954-69b8-4e73-9ddc-462560492867,a4b94220-ca08-4111-a0a0-478fc1355485,Equatorial Guinea,Miami,Jackson Way
+590e00cd-4022-4d50-9b93-4aa15f1fbe3a,0d261b20-b3de-4720-b95c-e87f5e54db52,Saint Kitts and Nevis,Minneapolis,Oxford Street
+9303812a-de04-41d0-9885-afffd874af2e,b378ed51-f152-47da-99f8-6ed13396be88,Romania,Colorado Springs,Underwood  Boulevard
+fa9976c5-f204-4d3a-89e9-d73af2d0dd27,d06dfc53-e9ba-4cb3-bec1-7d609078b1d9,Argentina,Madrid,Lake Grove
+5e86b52b-c422-48a7-acbd-81427a37a3c0,c52c3d88-0bcc-45f0-a22e-26374c53a4b9,Saint Vincent and the Grenadines,Boston,Beaconsfield  Tunnel
+8a14443f-a462-4740-8028-836d715ebe56,3de87c1c-4b6a-40fa-9c8c-2ac93ed7b413,Zimbabwe,Bellevue,Bicknell  Boulevard
+af800322-1e8c-4693-8473-54b9b60d1613,e00f6bf8-11fb-4431-8e3c-e7d822290172,Germany,Las Vegas,Biggerstaff   Rue
+47aefca5-c58f-4ce4-9d94-835a7a39acd2,f50bcaf8-25da-4bda-b1e3-d2f8773397be,Saint Kitts and Nevis,Henderson,Fairview Route
+0919bc6b-da5c-4059-8cb6-196daee7c54a,5580cbaa-a218-4d1f-bf9c-fe5a47bf291f,Burundi,Hayward,Calvin   Rue
+701f7603-bb5d-420c-bc3e-a751da974ea1,b2638cae-109a-46c4-809a-09af1480cdec,Niger,Philadelphia,Victoria  Walk
+7a72bc10-0ac5-4b95-8cff-3329c3dfbebf,15e02d1f-7584-4cfd-b2a9-57938ee0f475,Cameroon,Salt Lake City,Howard Avenue
+c9bdb5ad-7d1a-4175-919d-269ddbce6eef,b4d8c369-cab2-4915-a807-1618f2e98775,Guatemala,Garland,Durham Hill
+236919a2-abb5-4a85-b628-4e7dc00ae6e5,112879b7-3c6f-4f6a-b6cd-e0dca42d9b76,Hungary,Fayetteville,Coleman  Hill
+abf10ecb-6dce-4bc3-acab-0470d9db77ba,0391d716-f242-43ca-a338-5061d8fbc165,Morocco,Innsbruck,Linda Lane Hill
+cf6f7824-9179-4e51-8152-d81efdceff72,25005d51-ce31-4e07-9408-118b5904c8b7,Gabon,Salt Lake City,Burton  Tunnel
+a008c08d-2354-46e5-98e9-36aafe760f81,d9399f73-9352-4958-8509-537bb5dec63f,Botswana,Madrid,Blanchard  Vale
+5696a055-f96c-49e8-a2f2-1d6e909c3b9e,912ffe33-c1d7-45bd-a32d-3a26bea2fd98,Slovakia,Huntsville,Canal  Grove
+65a3f878-0ebd-4109-a955-05b7bf092a7a,0a45282d-6bc3-4038-9c3e-c2da32a6c022,Tuvalu,Tallahassee,Beatty  Tunnel
+de54ff5e-1cd2-40c9-a664-84d58765e41b,a3fecbad-2921-4d6c-83e1-3686f463d48f,The Bahamas,Bellevue,Durham Vale
+bc81873a-545f-47ba-b159-eec37ccef5db,a7763f1a-e73c-4439-b403-3d786a0b92d5,Lesotho,Escondido,Yorkshire  Road
+acf44e51-9666-482c-a1fd-71d0d3b448a6,f50b8e5b-32a7-4909-9c0a-c41108be8aec,Germany,Columbus,Thomas  Vale
+f1c94dc1-9d45-4c83-829e-2931b0c121af,a2eec90a-4b45-41b2-911e-c3ea721e7cae,Belarus,Santa Ana,Chamberlain  Vale
+bccee70e-45d2-46ce-a5c0-e87ad445ca72,32280491-4014-4cc0-8988-b2eb1b50f3dc,Mozambique,Orlando,Dutton   Rue
+8ac52aa6-459a-4b9d-8991-95ae317d1af5,abbeeced-2ebf-46c2-9275-b9382effa124,Kazakhstan,Springfield,Norfolk  Tunnel
+d620ed9b-b949-4811-92b6-2ad0e553e087,23f48d5a-e352-42d7-ae06-6a570f0bdbf1,Djibouti,Irving,Eaglet  Street
+e63f3924-0ab5-4f9f-980b-3d0842485d0c,184407ff-700a-4544-804f-d50f865e13c9,Germany,Laredo,Clarks  Route
+5e1f4343-9737-44ef-8052-594496532641,03a712b1-a586-44b1-ab0e-a03a185b2d77,Slovenia,Ontario,Cedarne  Alley
+e76ec7e4-5761-4dbe-a0e2-c0d3d510ed90,0ca5998d-0d83-41e1-87ec-22c6ba6eeefa,Uruguay,Philadelphia,Clavell   Route
+fbc19f1b-3a51-48aa-b5d6-ecf52df55519,084d5fe7-ed7b-4001-9302-d9b1be263167,Monaco,Innsbruck,Kimberley  Hill
+93827781-fa17-41eb-b9d3-af6f991b1993,57f489dd-30be-46e2-86b9-1221c9f3620f,Slovakia,Honolulu,Coalecroft  Way
+f1ca239e-a90b-4034-8949-d48b24ff5e79,f7f3d873-47f0-454c-a5fd-e8f17f8b89b7,Sierra Leone,Glendale,Chatfield  Lane
+895a4cb3-f924-4070-a47b-30adfb4094e2,ad964694-e4a6-4407-9076-c7ac1a199287,Zimbabwe,Hollywood,Longman   Vale
+7982ff5c-17b1-45ca-a009-de3c28690d48,437dedc4-775c-41dc-a908-3043c742eba3,The Bahamas,Seattle,Rivervalley Rue
+6a080180-6902-4fbf-8d51-afdc276715ab,297f0154-7706-46d5-bba0-96c3737f56ab,Albania,Fullerton,Glenwood Vale
+b244c3af-1fdb-4c5f-a13d-fab0065f9e1f,c914fb9a-d38c-4838-ba0a-a130732f6745,Slovenia,Worcester,Aspen Rue
+72e93ba1-b516-4c04-aafb-081aa9c57fd5,555c9fd3-49f9-4c33-98eb-c058b5bcc5bd,Greece,Toledo,Lexington Drive
+76481081-7759-4603-a474-3dd7bb49ecb0,fae120b6-9b5f-4075-b555-08731d1197cf,Zimbabwe,Dallas,Thrale   Boulevard
+567f481f-572c-4149-b2e3-6902c1900df5,b87f2175-10a3-43a8-a67b-9d5c4a653f97,Iran,Wien,Spruce Street
+40d89633-9314-41db-acda-20fb395bd245,90f96132-851f-4d78-8753-6a651db0d870,Montenegro,Orlando,Blackheath   Avenue
+1a9efacd-f432-4da0-8350-c2abd708e583,37130fc9-fa99-4443-8e27-ee2f8bfb2cc9,Rwanda,Arlington,Chamberlain  Grove
+90c0e71e-5ce2-41b9-b3b3-f77196a53fda,b7e0d3b3-9835-48f0-a038-c92a7c8f616f,Tuvalu,Charlotte,Cavendish Street
+96637cff-696c-42c9-b352-dde510b81c12,068097df-c304-4ac2-bf6d-d1a91c667abf,Libya,San Diego,Biggerstaff   Drive
+b9bb6526-7eb2-44d0-9911-ab786c4d14e9,054c04fa-be88-4dff-8427-3318cb2316e8,Rwanda,Los Angeles,Carpenter Crossroad
+f7fd7b53-94ad-414a-8bdb-de676d056532,4b95fbc3-66bb-48e7-8ec7-c183bf686e3e,Antigua and Barbuda,Cincinnati,Bennett  Rue
+1e532d8c-314e-44b5-bd65-d503bb9ba1ef,8a853d76-288d-40b2-9fef-29ee707d9648,Angola,Otawa,Bingham   Way
+f7a0a127-89b8-46dc-bbd9-13bfdfc9d65a,6cea20cf-bb77-4ea7-b44d-cd25111159e7,Nigeria,Minneapolis,Bekesbourne   Avenue
+894088c3-bb8a-4522-9688-a08b6544e8e5,f43f4ef6-b820-4e52-a485-e7d53c553581,Tunisia,Lakewood,Argyle  Pass
+a934d8a9-f153-427f-997a-91d97dc55cf6,d7b5f59b-8ec6-4e99-a2d3-bc54a8eca430,Rwanda,Rochester,Durham Vale
+ba8b603d-b4ed-4383-8e1c-489a245154ed,b1b83f96-e642-4fe0-a78a-fc41cd7a80ad,Myanmar,Nashville,Vincent  Crossroad
+65768208-3cf7-42b1-a97f-a05399039e09,0e784486-3683-49de-a825-0772c08f137e,Tanzania,Escondido,Black Friars   Rue
+3f18bb62-0e3b-4d5f-b66f-ce55931c4156,138bdf1c-0177-41e3-b5f0-4ce427c02c5f,Tonga,Moreno Valley,Pine Walk
+2bae04e2-6bf1-4b05-a613-9d12563d7e78,e100ff4f-b070-4dc0-8687-93f8603c58ad,Thailand,Lisbon,Maple Hill
+b423ed3c-dda0-4a37-9f71-6e61cda0af41,1ee76724-30ff-4926-bd8e-543b4e6c3e78,South Africa,Los Angeles,Addison  Crossroad
+c21b43c7-2f10-464c-ae72-03e4742e154f,ca3dee24-b9f4-4abd-bea4-153ca84b8cdf,Luxembourg,Tulsa,Garfield Road
+48b11bd4-312f-4811-a69b-5c76503cb3fd,3e3e3de4-3590-487c-aeb3-b436e947e647,Suriname,Lisbon,Kilner   Lane
+e3feeebc-234e-4a22-81f8-b350e16ac67d,f9eb7ec3-0b91-4956-9c8e-4f859854d71d,Botswana,Orlando,Chester  Boulevard
+e95547c0-738b-42ad-9b4c-acacde17d411,ecd06f58-583d-49ad-9efe-fd665becf9ad,Bosnia and Herzegovina,Lyon,Jackson Crossroad
+3110cedd-afcf-420b-a707-f7583aeee762,2c490cfc-705d-4b98-90a4-5dbaf997624a,New Zealand,Milwaukee,Angel  Road
+6ed02f39-425c-47a9-9520-713407e94c5d,d44f4ac5-e68b-4713-a4a0-07ee27153cab,Chad,Hollywood,Elystan  Avenue
+3341b95a-ce6e-4f26-a065-2ad663693297,4dc6cfb6-a5e8-41ec-83e7-c31dc1ba0e3d,Netherlands,Baltimore,Walnut Avenue
+a796ff29-7d43-4121-849b-bbc41ceed959,8cea3f8d-b263-4064-bb05-26df701fbb68,Grenada,Philadelphia,Arctic   Walk
+0bdccc37-ccaa-49fe-bd8f-5b7bd63beb91,e3f401fd-4947-44fd-9b4b-ebb81a44eff0,Nicaragua,Baltimore,Lonsdale  Crossroad
+bdf8975c-cef3-4a4c-8bbb-07a6115b59dd,f85c7639-e194-48be-88f6-d10a3009d24f,Guatemala,Jersey City,Abbots   Hill
+7f245126-7017-4ca2-8995-fb01b166cc46,80759fe8-c9c3-41b8-8965-1fc1608e77f9,Bangladesh,Boston,Fair Drive
+963c61dc-1d4c-4e89-8f30-be9670d2b558,0249d351-6e26-4f0f-a5b4-f3ce705bb359,Benin,Chicago,Chesterfield  Lane
+bee511f6-573f-4baa-843e-e15e10d8dbd1,5ce87207-cde0-459c-8966-b3ac029abd47,Kosovo,Bellevue,Railroad Hill
+9ef47643-c509-4e9f-b381-8864b760bf9a,42049a01-caca-45ad-ab0f-1046523a91dd,Panama,Bellevue,Cleaver Way
+e614b83b-1319-47ea-af1a-5204538ccd3d,d5bd9f59-2213-4398-93f5-8cb41a92a00b,Tuvalu,Irving,Birkenhead   Hill
+fc08bdca-7c4e-4d57-b343-fd4a6d7dfdd8,8fb9cb6e-5495-433d-9102-916115ea3e5d,Russia,Albuquerque,Pine Tunnel
+85187ef2-a70d-400a-aa8c-8f2dba75d24a,be428f62-af6c-4c51-8195-5e931406b30b,Suriname,Bridgeport,Longmoore   Boulevard
+40b9765e-e6aa-48de-a260-b1ffcb9926c3,f81758cf-22ff-4e2a-8de8-f9f66ce06130,Taiwan,New Orleans,Cliffords  Street
+02d411cd-87a8-4d1a-b618-afceec928bce,725aa90e-d1c0-4d52-ad15-5a7cf37037eb,Iran,San Diego,Norland  Boulevard
+2ab98a32-7073-40e8-84bb-5df5b8fba2ce,d3ef8408-01cf-4922-96b4-4d93d40a65bf,Kyrgyzstan,Bellevue,Birkbeck  Road
+ff0aea6d-3977-4c09-af4d-d451d5f70ba9,ffafda13-5a2b-497a-add3-8292efbb3c91,Turkmenistan,Sacramento,Gatonby   Rue
+90860f04-6566-49ec-bc44-851c0698702c,b3c58aed-dd99-4b82-becb-5335e3001764,Belarus,Worcester,Westbourne Crossroad
+e91fe1bb-a872-421b-b18f-20c420c168e4,18753246-c0cc-4853-a141-fc9637dc9a6e,Tunisia,Amarillo,Andsell    Avenue
+9f4b128a-e505-4749-ae67-4ad7d4a2b1cb,3d4ad052-32f7-4f1e-93ad-7bcdb85ec2d6,Mexico,Norfolk,Elf  Boulevard
+94083a07-79b1-41c2-80f5-f89b985970db,dba107d3-a139-40b4-baf0-4b4b0a679a66,Guatemala,Jersey City,Shepherds  Way
+1d2fd1a9-6ad8-4d5f-a033-dc86e3cdbeea,c1d13f1e-5c3a-4185-a8f9-cd33f3a63ff7,Guatemala,London,Colombo   Alley
+c8707003-7822-4109-a09d-f373e092facf,99270d84-b749-4172-8202-b3f94ab86261,Tonga,Charlotte,Dunsley  Road
+6a2b74db-eab6-446d-a976-8eef230a70a4,34461c34-33ae-4473-b89e-e76ef9bc81cd,Poland,Amarillo,Oxford Street
+d1cac7f5-d9de-4674-bd8c-adb9669a0618,7be11d39-9703-4e60-898e-26e098f995e1,Russia,Madison,Blackheath   Walk
+4d829acb-1e43-4b7f-8116-9030914e8fdd,7bdbf1cc-8d06-471b-a099-3067bf3998a0,Germany,Madrid,Bayberry Pass
+dbcecaa1-c0e4-4910-9f0b-b4af41df7170,93db58a5-cdd7-4ceb-88c4-7547cd6c1072,Taiwan,Oklahoma City,Carol   Avenue
+91e3cfb9-042d-4cfc-af7c-cfe82dbf7a15,f5f443a6-11b4-45e8-a66d-cab0b03fedfa,India,Innsbruck,Angela   Hill
+d07ec669-61bb-44bc-855f-4c8070f5709e,bdeed35e-98b4-4e99-9cfa-5307e9793a1d,Vanuatu,Stockton,Parkfields Street
+8b15a340-108e-44a5-8bb5-271b93948840,160bc67a-7522-4dd1-b072-ea43e232930c,Comoros,Omaha,Fairholt   Pass
+a2ae0b03-968d-46fa-b8bb-28b978b913e3,d66476e5-969a-4e51-969b-c0ca83320243,Oman,San Antonio,Belmont Park Crossroad
+203c89fe-27d6-4451-befd-f96205ea49d9,5e5926c3-3dbf-4e71-be06-1dbea9d1bada,Turkey,Henderson,Bell    Hill
+1f69dab3-6941-4b71-849e-e842b1caab62,51f9fb0c-50c7-4aa5-812a-afeb7aba7f43,Sierra Leone,Memphis,Cloth  Tunnel
+6a10c922-d53e-4e4c-b1d4-307a7be3c269,30c2a164-1fd9-471f-86aa-734da50241d7,The Bahamas,St. Louis,Besson  Pass
+462f499c-cf3e-4c0a-af47-899563649aad,72a55186-a62d-46a7-8933-2671fcfece32,Uzbekistan,New York,Waite  Way
+895f2d8a-2161-4b49-9146-102c0ded8e0e,36c67707-7899-4fc7-98df-1b73c4d67bf6,Luxembourg,Charlotte,Dunsley  Street
+40d64d36-d17c-47ad-ad8c-39aa21c3d472,8353af85-aa08-4099-b33e-4be3084ec5e0,Taiwan,Chicago,Carnegie   Hill
+c033152e-d415-4c09-85b8-80423d12e09b,87f28c35-5693-4c02-b639-82e05a63ac06,Japan,Fullerton,Betton  Lane
+2827bb32-c438-44fb-8295-1470ba88c2ed,22e05da3-76aa-40e2-a653-0b96c322119e,Bangladesh,Otawa,Clifton  Hill
+7274acec-278c-4832-a90b-d53dcb0465c0,dabcbf71-6fdd-4bbf-b10a-35224eab0a95,Central African Republic,Phoenix,Meadow Boulevard
+036dde99-348c-4161-a830-edd53adbe889,2c09ca08-b533-4f53-8487-e34083577bd9,Liechtenstein,Albuquerque,Thrale   Walk
+a019efdc-0590-49d7-ae0c-a2d6489e7ee5,cea37366-98b6-4b5c-b786-778a6341a61d,Morocco,Kansas City,Maple Vale
+28b7cf4b-ce28-41cd-b1e9-132372cad457,f017bca6-842a-43f9-8aa2-6f4ccc8c3ff6,Singapore,Miami,Wager   Way
+f9a58b5c-0de2-48a5-9012-c5880b55af9e,4385e2e6-b292-4337-b3e6-f14baa3d48f9,Liechtenstein,Arlington,Queensberry  Boulevard
+67ecf763-eeaf-4e81-93ad-a2cc2af59b00,54297888-d215-4581-ad0b-9781c0b67f78,Peru,Lisbon,Camdenhurst   Alley
+74c4baf9-6340-41d2-9b01-67624e1e1097,8661518b-f222-43aa-a6cb-9b337591ad55,Rwanda,New Orleans,Woodland Crossroad
+820958d6-8a1e-49cf-ac84-8fee4d96c921,8b787ce7-56ce-4738-bb99-d4c88b1f42d9,Belize,Stockton,Blue Anchor  Crossroad
+fe5d30b4-ff07-4894-8d59-9ebfad6fd149,efa93a69-43c4-4f9b-bbe2-1df31341e697,Mexico,Madison,Dunton  Road
+614404ea-6f45-4e7a-96f5-8ddca47a20d8,2759a9c3-f9bc-4dc2-9a5a-8dddf5d248ab,"Sudan, South",Detroit,Balfe   Route
+3b3f52f6-a495-4422-9af4-d489fa6e0a67,33296b4c-2600-4481-8cac-531b003d6ca0,Canada,Jersey City,Bond Tunnel
+60106e32-46b3-47d4-b06b-0d03877725f1,04b43b87-dfd0-491f-a398-40b5d3fd85ee,Papua New Guinea,Springfield,St. Pauls  Tunnel
+af3afce3-076c-4ad3-b08e-ad0d9ee96b90,227879c3-6a55-4c7f-8cca-69911d125fe3,Spain,Henderson,Lexington Boulevard
+5fb5b21d-d7dc-4ce0-9769-109ae4baa7d1,29ae91e1-b489-4a8d-915d-aeceb7454e98,Madagascar,Tallahassee,Commercial  Vale
+703c0434-c603-408a-b138-c76d377601c1,4e68a57b-1b96-4241-9783-89f2afe69f4c,Benin,Richmond,Fairbairn  Crossroad
+bcc6fdad-0bbc-4456-bbc4-07429ce4434c,3ff203b6-27b4-437c-816f-a443c25de086,Liberia,Berlin,Blenkarne  Alley
+7720f28d-c292-4fa2-9daf-300d51076ba8,a325f90d-eb45-42ef-b3d1-31f3243c10e8,Tunisia,Denver,Monroe Way
+4d47f9b7-ad04-4589-8921-6316127b069d,f255447d-5c77-4fff-a26f-968e695bf3a3,"Congo, Republic of the",Springfield,Chester      Hill
+3ed348e7-0b42-4bfd-8ced-e2a5b129445b,d482c63a-7b52-4554-8daa-49f73f95f1fb,Norway,Houston,Arlington  Avenue
+1c6c2276-e3de-4ff0-a40c-0ddc40d0cfa3,7f4708dc-88a0-4b31-beb1-ea7a92aa600f,Venezuela,Henderson,Hickory   Alley
+788aa161-1dc8-419c-ad82-fbbc517b3da2,64f3aade-2069-4321-9dfd-e6580834047a,Seychelles,Tulsa,Buttonwood Grove
+4d76aae5-53a8-48b5-b541-9bd4e99c8749,5535129f-330f-43f9-9ce1-3893acd3b3ef,Afghanistan,London,Chelsea Manor  Grove
+0342ce40-e8fe-4474-b098-7e52c1ca472a,1ce8ed42-d64b-4351-a3e6-3c51ed508f8b,Burkina Faso,Madison,Battis   Hill
+39b74024-33a6-40ea-ab4d-c3e6cdb5e7a8,fe580f34-c97c-4bbf-adc7-4d227614f658,India,Louisville,Abbey   Tunnel
+7197eb58-c186-424a-b997-1adff4fa03cf,59cd437e-73d6-4174-a72d-b40b17e710b0,Bahrain,El Paso,Calverley  Boulevard
+79319d7c-9d2f-40de-94d1-ad1da730c67e,b7c08295-e8c8-43f4-83a2-b635991d5137,Sao Tome and Principe,Glendale,Monroe Alley
+3e0b2764-6b39-448f-8f1f-50fe3ddba3a4,078a400f-47db-40c8-b932-06fab331a0b7,Oman,Hollywood,Babmaes    Walk
+2c328a25-9a66-4d21-be67-5ee3ea0ddc3f,8423f62a-9099-41d7-a475-2a1b6230670a,Antigua and Barbuda,Salem,Battersea   Vale
+bd1e3161-49bd-45fd-8967-712e0318348a,e72504e0-b43f-4c74-a88d-cff4e4f91af8,Israel,Otawa,Berry  Crossroad
+303c1e58-d67b-4bfd-ab4e-104c4908981d,f58d5a43-3084-4e3d-8f45-d2064c8d3d17,Tanzania,Glendale,Rosewood Vale
+fa348440-da9d-4ff0-ae09-40f061d3d6fa,8f17623b-e7bb-4d6f-8ff2-feb8edb135d8,Saint Lucia,Bucharest,Littlebury  Route
+e5fb4208-ea4d-4ca3-8284-fea937e55481,6d936f19-1e06-4ab5-aa46-fc990a4da288,Hungary,Seattle,Bayberry Way
+3a2181f5-5ac6-4d1f-8a46-8bf212cc3e34,3369aecf-6b21-44fc-a9fc-af756c852385,Brazil,Glendale,Clyde Vale
+5f41000d-fae9-43c9-940f-17a60112d663,4134a349-9b08-465d-bb5a-c4db34914198,Liberia,Jersey City,Chicksand  Street
+2963bd31-fef1-47b1-98cc-c2cccdb1c049,92e75ac3-86d6-409e-8415-5ebf08fe23c7,Bosnia and Herzegovina,Tallahassee,Balham   Way
+ebf9dc30-de37-4d69-adee-00cd9c8ddaf2,898eec08-c99f-4f8a-b18f-64c03c9b560a,Algeria,Milano,Ashley Avenue
+d336f725-828d-433f-bd91-3ed601152a82,e44763ec-25cc-43c0-9878-7cda95273895,Liberia,Scottsdale,Becher  Boulevard
+e1ec4550-42f8-42aa-945a-a91b367841d7,a5d062b9-c741-4e0d-9ca8-d9ff71273176,Cameroon,Richmond,Sundown Vale
+87f426ee-5439-4f74-8dd6-6a5f1502715e,d6081261-2b5a-4952-ad44-2fdb9fb944b9,Armenia,Columbus,Wager   Drive
+a59f3d1e-479e-4de0-a317-8eb3652d590c,0dcb7137-5010-4396-9b26-7cedb3a3775a,Thailand,Wien,Chalcot  Crossroad
+31bfb0b6-3596-4b2a-8ac3-7e94155bb17c,8b55d0d8-7625-4a28-b09a-cebd77ecbabd,Tajikistan,Pittsburgh,Dunsley  Boulevard
+a9197bfc-28da-435e-a61e-2e0145209166,8d8004f6-2e4c-4879-b5c4-2e01c0e2d3b5,Barbados,Huntsville,Cephas  Boulevard
+f9c5a080-f2b2-4fc8-9245-358da0bfdaa9,e40a6a23-05fa-469b-ad91-8536ea57af96,Tanzania,New Orleans,Clissold  Boulevard
+458f609f-539a-4d79-bd38-fd132bde7f67,7e7a62ca-950c-4244-86b0-1bc2fc510d11,Laos,Honolulu,Oxford Route
+9a2daaee-9851-4515-96eb-111184f2f30e,0df34287-0937-4574-9cf3-50bace4b49cc,Burkina Faso,Springfield,King Alley
+602b4cf1-6244-4688-86be-71b03b3a9db5,85c19d6e-239b-4501-bc54-d11f129c18e1,Slovenia,Denver,Callcott   Way
+1985a886-deb2-4779-9c9a-2dd6cf60924a,8cbf5547-5ef5-4afb-bd22-593a3f3a870b,Saint Vincent and the Grenadines,San Francisco,Cheney  Walk
+74effcff-a273-46d9-a03b-e1d6b5e6d5c7,2caad33d-7138-458b-af27-d4b5fa3c189e,Sierra Leone,Stockton,Sundown Road
+795f058d-4f05-4222-b23e-31f25a88a5f7,9f00d07e-54e0-48bb-b17c-206af42b2c90,Kiribati,Minneapolis,Chestnut  Route
+ef94c23a-49ca-43e6-9bc6-403293f47fc9,2490bd7e-5fc9-4eed-95a4-68bcaa5b4fa9,Russia,Venice,Angrave    Grove
+3582f70e-9cbc-4011-80c3-e6713bde4834,92c014ed-d57d-4f0b-8040-c39464faba33,Nepal,Dallas,Sheraton   Alley
+04d215a5-8247-4e1a-a261-c3860451fbaf,f2b1423b-a586-409e-9630-65012da99ee4,Trinidad and Tobago,Madrid,Bayberry Avenue
+3e5319ef-02a8-4063-b20c-6d472023361a,a3a10879-929d-416d-b4af-03aba4c7e084,Bangladesh,Bakersfield,Burton  Avenue
+3bf56c56-514e-4216-bb40-3970ea2a37a4,d114bb79-a0c5-4507-9af6-63f0bbb4c8da,Palau,Garland,Bocking   Route
+ef160329-e629-4ded-b188-ef89f02d4e15,2ef63fb1-f621-47d8-94eb-9ab7e078f88a,Finland,Louisville,Coley  Boulevard
+753e982c-1335-4232-aa77-8f0ab1da37c7,ae86c4fb-9847-4a83-8565-5321dfd53117,Central African Republic,Quebec,Fair Grove
+ee6f2318-295e-45eb-bb54-0c2f24980dab,83e974a4-5615-46d4-8a02-8402e92cb555,Italy,Pittsburgh,Ayres   Boulevard
+b43146db-db2e-4d15-990d-bcf66eab8d6e,0f66efd2-46d6-41df-ad55-b09a73acb433,Peru,Fremont,Littlebury  Walk
+089a5fb1-e3c9-424a-af82-1a169f509666,3f52fdb7-406a-4998-8ceb-9a48e0512139,Belgium,New Orleans,Vincent  Pass
+08ec9009-55dd-4ec8-bfe5-0269c449b01b,2066b64c-0ea6-4ac0-b95a-504cdd5541b3,Armenia,Detroit,Parkfields Pass
+1df7bb26-3e89-4ec5-a97d-3de061e48b59,ae51d55f-bbd8-49a2-b848-e740ecf2a2f5,Uganda,St. Louis,Clavell   Rue
+1a266f70-8409-40a4-be1c-fbdeb464da7a,885a61c1-4860-4cc7-8253-9f986c5852a0,Estonia,Portland,Elia   Way
+59a16afb-8efa-4de5-bc50-02b2b1f82722,625cde7e-ffb7-43fe-a612-5ed48241f46f,Swaziland,Houston,Beatty  Road
+5552610f-f37c-4b68-824a-57d29c2cab57,a742535b-b51e-4f77-8e25-f0d283e7072f,Belarus,Miami,Underwood  Walk
+51ef1d6f-198c-4f92-be23-f0dc38a5cc5c,2c90460c-fb89-4987-b9f1-34511129e6ec,Bosnia and Herzegovina,St. Louis,Wadham  Pass
+dd6665c8-9f53-40dd-8ed0-c072b0317c24,cfbd3d7b-c5f4-4a39-b38f-40cdd08e632a,Lithuania,Salem,Calderwood   Lane
+192e6e27-f4ec-47b3-8917-ece885b64db5,bd947268-7a41-49eb-aa49-c4d80b7b6579,Guinea,Oklahoma City,South Hill
+764dd988-aca1-494b-9ae4-6b3bde88acdb,ec85a080-2178-4704-9d71-26ec1acb1b7e,Bahrain,Pittsburgh,York Lane
+acd1a0df-69cb-4c60-8d3c-1737284f6d00,0d710016-a4a4-45f8-9d85-4ea3564293af,Australia,Springfield,Rosewood Crossroad
+d85c0353-a0f2-4734-82e0-de0cce270a0e,59912b2f-4099-4e74-94c9-72e4d14171e0,Niger,San Bernardino,Carolina  Route
+a527b2c8-f947-4206-8eee-7c4f69ae73e0,3a46ec25-2f7d-4025-879a-d21f6b56b4a0,Zambia,Portland,Argyle  Road
+2fff57d4-99de-4ddf-bcd4-039ca5bc9a6c,6c30d26e-5462-41be-a7fa-fd888556d4ea,East Timor (Timor-Leste),Lakewood,Besson  Street
+f8491e4f-9921-4ad4-9bc1-707fcbd2aea8,3acdd977-24f9-4c69-8039-21177803d72b,Italy,Atlanta,Mariner  Alley
+eec2aeec-d42b-40e4-9d76-3cbb873777c1,91a6edd9-013d-498e-888e-d64e6caf58bd,East Timor (Timor-Leste),Madison,Angrave    Way
+d9912178-98db-47e5-9435-a2678f83956e,3a6ee05a-b374-4faa-a4bf-fcdfb8ba000a,South Africa,Tallahassee,Blake  Boulevard
+027bf93a-64af-4ecb-a2df-82b5c94de8ba,7d9a04c3-e5ba-4728-9437-47f70cd3f3fd,Malta,Indianapolis,Bekesbourne   Street
+ca9b7a6a-aa10-4308-ba52-009647c3a35c,80bf285f-16f4-44ed-b1de-3d61507a67ac,Sierra Leone,Jacksonville,Edwin   Boulevard
+52672749-9ed8-4a5a-b32a-caafce365bdc,1795c525-6347-46fe-b080-c141dc3ee34a,Monaco,Miami,Rosewood Tunnel
+de01123f-fd2e-4835-99b7-c4f024c24aff,7162ce04-f195-4f5b-ad0c-09d2966015b2,Portugal,Chicago,Cloth  Vale
+38301ce6-b72a-494d-aa74-01b0ad6f1ab0,96d969a5-c3e2-475b-8971-cd32b8cade8a,Namibia,Pittsburgh,Elia   Boulevard
+d58a2f3d-16f7-48d3-b398-b3d6995b5b80,4c037d79-ae2f-4cf4-ba69-78364f990f9a,Comoros,Irving,Bloomsbury  Avenue
+cf04d20c-5b80-449a-a245-fa1b50c151be,c7cd8d30-8867-4875-b1ec-d5b6d88cf575,Sri Lanka,Berlin,Caxton  Pass
+6cd070a3-9da3-48af-8929-4a8272302be0,b34d7ca8-daca-41fc-ab51-1da37acb340b,Dominica,New York,Baltic  Avenue
+e7bd51e2-67a6-4c75-b91f-bebc92afa588,140ce2d4-e74d-4adb-b498-4ff1e119af23,Yemen,Escondido,Elgood   Tunnel
+f1438c48-b613-42af-a780-a95d2069d742,96298728-d331-4ed9-9f03-f578f070b94a,Guyana,Paris,Bazely   Street
+cda9d715-99d2-49ac-a6fd-15791878eb44,4f3c46a4-b7ce-443c-9675-0d0e09cc49a3,India,Irving,Central  Walk
+3d350f84-c707-47bc-bf2e-c18d215f2505,9d69f79e-966e-4673-a7f4-90ce83269eca,Solomon Islands,Valetta,Camdenhurst   Avenue
+22664a27-2fe3-4e3d-9d1a-acd204a1d95b,ec6d576f-ef9e-427b-948e-4fe7a2bd67f6,Russia,Sacramento,Bermondsey    Lane
+17ef497c-3f12-4883-85b0-9377bc79047f,a6715f51-8881-4d23-9b01-0c42577b9875,United Kingdom,Rochester,Waldram Park  Boulevard
+1c4209db-bca9-4e7f-bf29-d65ea14423eb,98b02799-d28d-435b-8d77-14e744dd592e,Switzerland,Toledo,Coley  Crossroad
+13f3b3b8-69a3-4860-862e-bc0a98558df6,44cdde84-ff41-4283-80a6-3b844d7493d3,Uganda,Bakersfield,Timothy  Road
+b419809a-4087-41f5-96fc-569fcb791151,cbc0784a-fbbc-42d4-8d0b-264fce42a0e9,Azerbaijan,Milano,Queen Route
+b1c801e8-665a-4e1f-931b-e84f8b0efe2a,ea528b86-1bb8-45ce-917e-f52d743613c2,Cuba,Prague,Monroe Way
+9c7287bc-b799-4ff9-a830-22c3d147ebe6,9b2680da-d0c1-4c0f-8b16-e6f068b58f77,Taiwan,Colorado Springs,Belmore  Crossroad
+f61a2324-ff73-450e-9cf5-448186f0a769,272e4286-27cb-42b5-b702-f895765e6c62,New Zealand,New Orleans,Canon Way
+81fdacac-93a6-4ade-8971-7773b5a042b8,18058536-532d-4b96-b1ef-72ac0c3cf74e,Netherlands,Miami,Cleaver Drive
+cce06219-eae5-402f-813b-d4e015e23c22,dd84794a-c0c9-45a8-a2a9-2019242e4dde,Switzerland,Zurich,Clavell   Vale
+078727a8-cc8c-4fd9-8e09-f9d61295b40a,72124443-c819-464f-a583-f108480abcf2,Taiwan,Fort Lauderdale,Chamberlain  Vale
+1133e501-aa5f-451c-a547-35dfc5ae28c5,60ac3c90-b86b-4421-a55c-548bf4f34475,Bahrain,Zurich,Belgrave  Drive
+fa49f7ce-9032-421a-846f-b0ee4510b511,ac961834-5c12-49c0-973c-ab77aebf4146,East Timor (Timor-Leste),Rochester,Walnut Road
+f1e5acd5-8a4e-4557-874d-716213e93522,af07cef0-9500-4d3e-81bf-d9d1c1fa5153,Eritrea,Bucharest,Udall   Pass
+5323f6b5-e787-49f7-99b3-80eb27489c0b,bbabb5ac-eb7a-467a-899e-bfeb17765db0,Belarus,Fort Lauderdale,Colombo   Avenue
+7346d1c9-e94e-405a-8ab0-08d8ab9eb7f5,4c38714a-8221-465a-b3e1-bbdc7ed64dfe,Indonesia,Bucharest,Apsley    Hill
+78cafc35-4968-4481-990e-a78acc877a42,61211b2e-092f-4830-b224-292d28984cfe,Seychelles,San Diego,Glenwood Route
+e0510d0f-8bdf-44e6-bdcc-af438ba78e18,e228875d-f34b-4055-836e-8ee6c6feb201,Mozambique,Los Angeles,Ben   Crossroad
+601df6fb-3f45-4aa2-a4b3-5d6503ab87c8,d60db876-ba3b-4aa8-adf3-7742b2efaf7f,Argentina,Los Angeles,Cliff  Lane
+11509894-3dad-454e-b9e8-ac0520bb878c,932042c8-b101-4e05-bb68-51a75331ca4c,Kazakhstan,Prague,Bedford  Alley
+e61b6743-3375-496b-aa12-7592f3f0dd3e,f8d8f334-4593-4acb-98ef-50fad431083b,New Zealand,Nashville,Durweston   Tunnel
+4654825e-3c39-43c1-9815-6bdc16452332,c47ce9ee-7515-477b-912d-f430ba63d3b3,Malta,Lyon,Arlington  Hill
+a65fdbb2-0a4a-4aaf-bec3-b8cac4e92fd0,3278d808-a57d-4d9d-bb67-6d91e2710ea5,El Salvador,Omaha,Meadow Drive
+acd9c30c-300f-41bf-ba40-77d119756496,2fb95dd3-aa70-451f-afbb-f1f521edfa73,Paraguay,Otawa,Epworth  Grove
+d4941981-44c1-4088-88cf-bd6b4c711b32,1ff570f9-311d-49da-bb8b-8287f4422895,Honduras,Omaha,Antrobus   Grove
+5d0f46bd-9f50-4c83-9fc0-7437e955b602,dbc9db00-eca7-4c48-b249-b5534a93a781,Bahrain,Norfolk,Carlisle  Street
+1f695c7d-9419-457f-99fc-bab37f61a4e9,7ca64ca7-35f8-46d3-81ce-6525049bad4b,Argentina,Reno,Champion  Walk
+97ce265a-7470-462c-b505-3395140ee501,2155c896-d851-4814-b75c-cd256b5cfa17,Macedonia,Rome,Arctic   Road
+fe322b45-1fad-4f79-8dca-69dcf3da4e2f,cdd9f589-2a31-4202-9e44-0cef29d03aeb,Tajikistan,Long Beach,Battersea   Way
+b64df884-35d6-40a5-8382-ed1f80f0542d,850a4867-8328-4e53-b53b-e47dfc1bf27e,Singapore,Fremont,Geary   Alley
+071fb20a-0286-4171-a4a5-4c9d78342e49,b0e35019-7ad3-4a40-a0ee-5b5515328bbc,Kyrgyzstan,Hayward,Coleman  Tunnel
+ad17b2b3-7373-4c12-8202-3288b890d088,52ba7e6d-7cc3-430d-a709-85b7cb30f6f5,Tunisia,Huntsville,Empress  Hill
+0371ffd2-3dfb-418a-9df7-ee601a79a186,ab0355eb-0d22-4c87-9f15-5eec8be57b4d,Comoros,Orlando,Chatfield  Road
+f1346b89-88e7-4e09-a82e-30b1a7badbb8,04f41d8e-5762-40ea-9eb4-5f6891b82823,Lebanon,Kansas City,Ernest  Grove
+7e488b1f-f5ea-4a33-a3a2-ac1ab123acd5,161a4b74-2b39-49bd-9d51-8ff63acac6ec,Andorra,Bridgeport,Boleyn  Tunnel
+5e5fd4c3-7c6b-4449-b428-8d7e6603d0b9,8bb2edaf-5aeb-4eae-af43-3de4d765a32c,"Korea, South",Long Beach,St. Pauls  Avenue
+1f72796f-8fe9-4abf-b35a-113ee27fccd5,0eff3dee-54b5-4fd5-8b04-55e305da942d,New Zealand,Rochester,Victoria Rise Hill
+107e9527-ebd3-456a-8335-f21735378222,53b93cd3-3d26-42b0-9f9d-4461e192b808,Kosovo,Columbus,Bel   Way
+5f6f4d34-2e4a-4ab7-b929-f0d15236b376,bace6bf0-436f-4c6f-bb0e-2dc0dc937083,Qatar,Lisbon,Chambers  Street
+c49a343c-ba7a-46a4-b47b-71be8fc75e37,9ef8cbaa-543a-4e14-b017-8a5b68f6ab86,Kosovo,Honolulu,Buttonwood Boulevard
+1d6555f8-6878-4116-967b-8716b071482c,4229f984-0d83-48c4-9f6a-2b8d39f2f922,Belarus,Denver,Ashley Way
+f3326b7f-c442-4633-8196-37cf4b2a98e4,6d5e5ee4-fafc-4548-8b17-4cc6bef3ea05,United Arab Emirates,Stockton,Apothecary   Boulevard
+dea8f3e0-6dc9-4464-b1b7-8911a307f042,e5e7ba45-c615-4f8d-abcc-ff6e2865bf0d,Italy,Fremont,Queen Caroline   Grove
+ead428b1-dab3-456d-a008-44f515f07698,2e923023-59f0-4bd7-9990-f2a6778becd5,Gabon,Zurich,Berry  Vale
+d5612cdf-6c7f-4d47-8056-418f0f1b9868,f88d9793-a76d-49a8-bed1-365aa42310da,Ecuador,Lakewood,Bempton   Boulevard
+45c5835f-a737-4e54-8427-b45651e8dff7,718f33e7-966d-4cec-8ce3-3554f0c2307c,Haiti,London,Elia   Lane
+e4bddd86-fe73-4bfd-8a97-dba40daa68f4,5c92f932-0f13-47cd-acbe-d119d190bcc2,Singapore,Lyon,Cavell   Way
+5556e950-e7b6-46d7-8319-6596d1c2155d,406264f8-cd00-4b82-a72d-55923bd68e2e,Azerbaijan,Huntsville,Aspen Tunnel
+7eec5f4c-085d-49c3-8a7a-99ba14d72e52,ff15be75-4316-487d-b87e-0ece58679619,Bulgaria,Lancaster,Vine  Vale
+e0c983a4-0502-42d0-aea5-6fb8b5315ce9,d7fb2134-bf9c-4820-be3e-bb77f57c8cf0,The Gambia,El Paso,Geary   Boulevard
+16df0c52-0e52-4ae5-9173-6e4855559bd7,9033c777-40ac-4a90-8989-b8339030ba91,Namibia,Rochester,Duthie   Drive
+b9e6067f-57b8-4d60-9fa5-35967907d072,f1388d40-8867-438d-a83b-33d6296e8cd3,Guinea-Bissau,El Paso,Becher  Way
+a4cb2354-99f9-4fe1-92e2-ab42cd4c7849,b99ec405-551a-403d-a7fd-b4d4537182f8,Montenegro,Lakewood,Chart   Pass
+d1eccfe1-d660-4c70-beb9-a2b8bdb6dbf6,5239bce3-5baf-4b44-a39d-720d2456c818,Djibouti,Madrid,Chester      Route
+9b1b776a-02b6-46ab-aaa2-1bce3c1b785a,7ca12daa-d70a-48c5-a87a-fba3eab548d5,Antigua and Barbuda,London,Lake Crossroad
+f0b8032f-f780-478b-8901-d3847b7d679e,4f11c055-271b-4606-9295-384658baa78b,Cuba,Los Angeles,Elf  Boulevard
+f5cdbb08-89c5-4f7a-8a08-e71bc11ba43e,45b464e7-8cb3-47d4-b322-8d068b79f6b2,Peru,Bellevue,Enford   Road
+37d50cc5-23a8-4d15-8c91-1bba9c309939,c6f02a10-ac40-4fe5-ab76-cf5200fc8076,Grenada,Anaheim,Birkin   Grove
+8bfa9a48-7984-44e9-9064-7b786109f531,416691e5-8b65-4a3d-8e72-df920858e928,Nigeria,Milano,Bayberry Tunnel
+c93f2d58-c0e6-4d99-919c-474d1616d170,4815db56-366c-4a2f-93cd-54d6c1744f00,Fiji,Bucharest,Thrale   Street
+9786a6b5-aa93-47c4-a94e-b76da3e99333,4b1b5000-fc0e-4b1c-a824-199e4bbec496,India,Madison,Adelaide  Boulevard
+68f12c2e-3fbc-4cbc-a8f5-891db9722687,bb794231-f6d1-414d-be16-ae663b0746bd,Georgia,Salt Lake City,Hamilton  Hill
+07496b10-f38a-4b43-a559-a3dfcc662056,e9838685-a964-4bc6-81c4-52e51da566ba,Zambia,Stockton,Wake  Rue
+7227555a-19fa-459f-ac17-7d62ed5cd4e1,d38fb3c5-8ce2-4b43-92a8-d9fc39e0149d,Slovenia,Prague,Ashley Alley
+0502ce99-fb81-418f-8c54-849f6e6ef133,9cf1b3a4-6816-4156-98bb-530993d760ea,Algeria,Lincoln,Camberwell  Drive
+3fca3cb7-e50a-4871-86de-36dd0e044818,48323843-be5e-4f60-93d1-1744cfefbbee,Yemen,Berlin,Calverley  Way
+aafe174c-e776-4251-af19-68942d83c41c,ae98ff4b-a2b9-49cd-8107-c81940e7d2d7,Mozambique,London,Hickory Lane Hill
+091dfb13-a1fa-46fe-9f6c-6b4950d4495d,2c80fe46-9c2f-4d17-a031-5ffa463c176e,Swaziland,Sacramento,Duthie   Vale
+baedce79-3c8a-4843-b5ad-55fc42749413,dd79c38c-89a9-4ccd-98d7-4d66d4f49d10,Laos,Jersey City,Bacton   Hill
+7008869b-2bc2-400c-81e9-9add3843e26f,facfdd39-6214-4bf1-a981-79717f1ed9b0,Burundi,Jacksonville,Birkbeck  Rue
+24276c83-1b34-48a3-ae3c-449e3b113963,beadbd58-d79b-4412-a948-ada1a81a72cd,East Timor (Timor-Leste),Hollywood,Duthie   Pass
+b1dbd553-0f5f-4021-bc95-19dffa54a9e8,fffe2eda-1489-4cfe-8884-79781ec5fa5f,Laos,Madrid,Coborn  Avenue
+8e99e67d-87fb-4d20-8131-e12c460d315d,5678d069-1b5b-4cba-bf92-62f98f2c712a,Oman,Madrid,Carpenter Drive
+95e590de-1341-4dbb-bd9f-14ebbf4464e5,9e0ca061-0e80-4727-98b9-5c71dcb09f36,Niger,Prague,Durweston   Vale
+25c079a9-7a40-43bb-a00d-7700d4d4a8c6,4b853945-9213-4151-96e2-ee601e90b435,Mexico,Prague,Cleveland  Pass
+008cdb76-c51e-4d9b-b7e0-1e257791e871,7c395023-54de-4ec7-bf00-3e351e35e0f1,Jordan,Anaheim,Cobden  Road
+c1f2accb-e3cf-4c87-83e1-e33db40f527c,a9672cdd-81d7-41ba-8620-47f13cf1568e,Czech Republic,San Antonio,Dunsley  Vale
+eacb8083-ae0d-47ad-b783-475c360db3d4,53a5299b-6f34-4876-9fb2-2e51f087e18f,Moldova,Otawa,Thrale   Boulevard
+b15c2cfd-f631-4544-8250-5f523d7940d6,c56ace2d-c5d2-4bae-b2e1-d251a9213369,Togo,Rome,Oxford Route
+51466ea0-c4c2-46a3-8543-2af65194256a,aaaa64d0-6ee4-4450-a9cf-8f14ec2544ad,Madagascar,Quebec,Abbey   Grove
+bea79efe-2efa-4ca7-ac42-6970fa315e2d,cb028473-945b-40a8-acd1-5e5332e04856,Jamaica,Norfolk,Chapel  Avenue
+45d53a01-1b2d-453f-9dc1-0aa1e5fdc1e3,ef1173f8-8bd4-4738-b1f3-833cd5d8fff8,Tunisia,San Francisco,Durnford  Lane
+845d5960-2cf8-495c-9074-0fefb10dd36c,da988214-8521-4b19-8009-220d6e9f3fd9,Mongolia,Pittsburgh,College  Way
+51b3735f-3369-4233-be04-ff5a70d343d5,def33d3a-c1a0-4229-8bfe-2816cf19f204,Montenegro,Milano,Heritage Boulevard
+18f0afc1-2ccc-4af4-916d-92db99830341,3b96ee3c-860e-487d-9cdf-7fb02d60374c,Ecuador,Garland,Church Crossroad
+da3ef067-8ebf-467f-87ad-91bc6fbcf803,8696805a-56f0-44fd-b4c6-06f3010f4790,Burundi,Honolulu,Hammersmith  Avenue
+3cbd8625-fd80-4ef3-9c9d-186a6ebe5bf1,5e62e79d-ea37-46ea-b620-bb22a6aa4cfd,Lebanon,Hayward,Black Friars   Tunnel
+
