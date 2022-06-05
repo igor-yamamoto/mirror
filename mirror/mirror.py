@@ -17,7 +17,7 @@ class Mirror(Ground):
             a) "abs": binary comparison (0 for divergence, 1 for assertion)
             b) "sequence-matcher":  implementation of `difflib.SequenceMatcher` algorithm
     """
-    def __init__(self, ground, mirror: pd.DataFrame, score="abs"):
+    def __init__(self, ground, mirror: pd.DataFrame, score={}):
         self.ground = ground.ground
 
         self.mirror = mirror
@@ -36,35 +36,72 @@ class Mirror(Ground):
                 elif column in ground.attributes:
                     self.attributes.append(column)
 
-        self.extract_map()
-        self.extract_stats(score)
+        if not score:
+            for attribute in self.attributes:
+                score[attribute] = ["abs"]
+        else:
+            for attribute in self.attributes:
+                if attribute not in score.keys():
+                    score[attribute] = ["abs"]
+        
+        self.score = score
 
-    def extract_map(self, score):
+        self.extract_attribute_columns()
+        self.extract_map()
+        self.extract_stats()
+
+    def extract_attribute_columns(self):
+        attribute_columns = {}
+
+        for attribute in self.attributes:
+            attribute_columns[attribute] = {}
+            attribute_columns[attribute]["ground"] = attribute+"__ground"
+            attribute_columns[attribute]["mirror"] = attribute+"__mirror"
+            score_cols = {}
+            for score in self.score[attribute]:
+                score_cols[score] = "_"+attribute+"__"+score 
+            attribute_columns[attribute]["score"] = score_cols
+        
+        self.attribute_columns = attribute_columns
+
+    def extract_map(self):
         ground_df = self.ground
         mirror_df = self.mirror
 
         join = pd.merge(ground_df, mirror_df, on=self.keys, how="outer", suffixes=(
-            "_ground", "_mirror"), indicator=True)
+            "__ground", "__mirror"), indicator=True)
 
         raw_map_order = []
+        scoring_cols = []
 
         for coll in self.attributes:
-            if score == "abs":
-                join[coll] = f.apply_abs_eval(
-                    join, coll+"_ground", coll+"_mirror"
-                )
+            attribute_scorings = self.score[coll]
+            attribute_score_cols = []
 
-            elif score == "sequence-matcher":
-                join[coll] = f.apply_sequence_matcher_eval(
-                    join, coll+"_ground", coll+"_mirror"
-                )
+            ground_col = self.attribute_columns[coll]["ground"]
+            mirror_col = self.attribute_columns[coll]["mirror"]
 
-            raw_map_order += [coll+"_ground", coll+"_mirror", coll]
+            for scoring in attribute_scorings:
+                scored_col_name = self.attribute_columns[coll]["score"][scoring]#coll + "__s_" + scoring
 
-        join["_mean"] = join[self.attributes].mean(axis=1)
+                if scoring == "abs":
+                    join[scored_col_name] = f.apply_abs_eval(
+                        join, ground_col, mirror_col
+                    )
+
+                elif scoring == "sequence-matcher":
+                    join[scored_col_name] = f.apply_sequence_matcher_eval(
+                        join, ground_col, mirror_col
+                    )
+
+                attribute_score_cols.append(scored_col_name)
+
+            raw_map_order = raw_map_order + [ground_col, mirror_col] + attribute_score_cols
+            scoring_cols += attribute_score_cols
+
+        join["_mean"] = join[scoring_cols].mean(axis=1)
         self.raw_map = join[self.keys+["_mean", "_merge"]+raw_map_order]
-        self.map = join[self.keys+["_mean", "_merge"]+self.columns]
-        self.scoring_method = score
+        self.map = join[self.keys+["_mean", "_merge"]+scoring_cols]
 
     def extract_stats(self):
         stats_dict = {
@@ -86,8 +123,11 @@ class Mirror(Ground):
             ).describe().loc[["count", "mean"]]
 
             for attribute in self.attributes:
-                assertivity = 100*stats_info[attribute].loc[["mean"]][0]
-                stats_dict["field_assertivity"][attribute] = assertivity
+                stats_dict["field_assertivity"][attribute] = {}
+                for score in self.score[attribute]:
+                    score_col = self.attribute_columns[attribute]["score"][score]
+                    score_val = 100*stats_info[score_col].loc[["mean"]][0]
+                    stats_dict["field_assertivity"][attribute][score] = score_val
 
         self.stats = stats_dict
 
@@ -121,10 +161,12 @@ class Mirror(Ground):
             assertivity_subset = self.attributes
         
         if ((self.attributes) and (assertivity_subset)):
-            print("\nFIELD ASSERTIVITY: {}".format(self.scoring_method))
+            print("\nFIELD ASSERTIVITY:")
             for attribute in self.attributes:
                 if attribute in assertivity_subset:
-                    print("\t|- {}: {}".format(attribute, self.stats["field_assertivity"][attribute]))
+                    print("\t|- {}:".format(attribute))
+                    for score in self.score[attribute]:
+                        print("\t\t|- {}: {}%".format(score, self.stats["field_assertivity"][attribute][score]))
 
     def map_field_error_frequency(self):
         errors = self.map[self.map["_merge"]=="both"][self.map["_mean"]<1]
