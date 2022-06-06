@@ -185,7 +185,7 @@ class Mirror(Ground):
         errors = errors.groupby("_fields_with_error").count()[[self.keys]].sort_values(by=self.keys[0], ascending=False)
         self.error_frequency = errors
 
-    def inspect_divergence_on_field(self, field: str, hide_keys=False, add_fields=[]):
+    def inspect_divergence_on_field(self, field: str, score="", hide_keys=False, add_fields=[]):
         """
         Method that returns a dataframe listing all records that are divergent over an attribute.
 
@@ -199,6 +199,21 @@ class Mirror(Ground):
         else: 
             keys=self.keys
 
-        display_fields = keys+add_fields+[field+"_ground",field+"_mirror",field]
-        divergence_df = self.raw_map[self.raw_map["_merge"]=="both"][self.raw_map[field]<1][display_fields]
+        ground_col = self.attribute_columns[field]["ground"]
+        mirror_col = self.attribute_columns[field]["mirror"]
+
+        scores = self.score[field]
+        score_fields = []
+        for score_field in scores:
+            score_fields.append(self.attribute_columns[field]["score"][score_field])
+
+        if not score:
+            if "abs" in scores:
+                score = "abs"
+            else:
+                score = scores[0]
+
+        score_col = self.attribute_columns[field]["score"][score]
+        display_fields = keys+add_fields+[ground_col,mirror_col]+score_fields
+        divergence_df = self.raw_map[self.raw_map["_merge"]=="both"][self.raw_map[score_col]<1][display_fields]
         return divergence_df
