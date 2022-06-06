@@ -53,6 +53,8 @@ scoring = {
 mirror = Mirror(ground, mirror=mirror_df, score=scoring)
 ```
 
+All the demonstrations can be found at `demo/`.
+
 ## Installing
 
 As of now, the package is not published on the PiPy repository. It can be mannually installed as a wheel package by:
